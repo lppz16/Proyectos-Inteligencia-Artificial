@@ -64,8 +64,19 @@ Después de las presentaciones, discutiremos preguntas como:
 Encuentre un Space que pueda clasificarse como:
 
 1. **Totalmente observable, determinista y episódico:**
-https://huggingface.co/spaces/Iker/Translate-100-languages ---- **M2M100 Translator:** Considero que este es un buen ejemplo, ya que es totalmente observable, ya que el agente recibe todo el texto que necesita para ser traducido y no necesita más infromación adicional. Además, es determinista porque la traducción que crea es la misma bajo el mismo lenguaje, y episódico porque cada traducción es independiente de las anteriores.
 
-2. **Parcialmente observable, estocástico y secuencial.** 
-https://huggingface.co/spaces/MostLime/lcm-chess-playground --- **LCM Chess Playground:** Este, es parcialmente observable porque el agente logra observar el estado actual del trablero y como ha jugado el otro player, sin embargo, no conoce cual será el siguiente movimiento del otro player. Es estocástico, ya que no puede ser 100% predecible, debido a lo anterior dicho. Y, secuencial, porque cada movimiento va a influer en el siguiente, y hasta en el resultado final.
+**https://huggingface.co/spaces/Iker/Translate-100-languages**
 
+**M2M100 Translator:**
+
+Considero que este es un buen ejemplo, ya que es totalmente observable, ya que el agente recibe todo el texto que necesita para ser traducido y no necesita más infromación adicional. Además, es determinista porque la traducción que crea es la misma bajo el mismo lenguaje, y episódico porque cada traducción es independiente de las anteriores.
+
+---
+
+2. **Parcialmente observable, estocástico y secuencial.**
+
+**https://huggingface.co/spaces/MostLime/lcm-chess-playground**
+
+**LCM Chess Playground:**
+
+Este, es parcialmente observable porque el agente logra observar el estado actual del trablero y como ha jugado el otro player, sin embargo, no conoce cual será el siguiente movimiento del otro player. Es estocástico, ya que no puede ser 100% predecible, debido a lo anterior dicho. Y, secuencial, porque cada movimiento va a influer en el siguiente, y hasta en el resultado final.
