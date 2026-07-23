@@ -24,13 +24,6 @@ Proyectos-Inteligencia-Artificial/
 
 > La estructura del repositorio puede actualizarse a medida que se desarrollen nuevas actividades durante el semestre.
 
-## Tecnologías utilizadas
-
-- Python
-- Jupyter Notebook
-- Visual Studio Code
-- Git y GitHub
-- Bibliotecas de Inteligencia Artificial y Ciencia de Datos (según cada proyecto)
 
 ## Objetivos del repositorio
 
