@@ -16,7 +16,7 @@ Este repositorio contiene los proyectos, talleres, laboratorios y actividades de
 Proyectos-Inteligencia-Artificial/
 │
 ├── Talleres/
-├── Laboratorios/
+├── Quices/
 ├── Proyectos/
 ├── Recursos/
 └── README.md
