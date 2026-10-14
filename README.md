@@ -17,6 +17,7 @@ Proyectos-Inteligencia-Artificial/
 │
 ├── Talleres/
 ├── Quices/
+├── .gitignore
 └── README.md
 ```
 
