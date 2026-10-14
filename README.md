@@ -17,8 +17,6 @@ Proyectos-Inteligencia-Artificial/
 │
 ├── Talleres/
 ├── Quices/
-├── Proyectos/
-├── Recursos/
 └── README.md
 ```
 
