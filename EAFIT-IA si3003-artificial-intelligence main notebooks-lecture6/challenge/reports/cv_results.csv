@@ -1,4 +1,0 @@
-model,mean_train_accuracy,best_val_accuracy,std_val_accuracy,best_params
-logistic_regression,1.0,0.9790640394088669,0.027713464392187602,"{""classifier__C"": 1.0, ""classifier__solver"": ""lbfgs""}"
-knn,0.9806241266884024,0.9788177339901478,0.017301092934813727,"{""classifier__metric"": ""manhattan"", ""classifier__n_neighbors"": 7, ""classifier__weights"": ""uniform""}"
-decision_tree,0.9982456140350877,0.9022167487684729,0.05861654992213133,"{""classifier__criterion"": ""gini"", ""classifier__max_depth"": 4, ""classifier__min_samples_split"": 2}"
